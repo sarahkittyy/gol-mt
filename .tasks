@@ -1,0 +1,4 @@
+[run]
+
+command=cargo run
+output=terminal
